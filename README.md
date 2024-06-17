@@ -1,4 +1,4 @@
-This interactive web application is a great way to create and download resumes in different formats. It provides a user-friendly interface that makes it easy to input details, work experience, education, projects, and more and generate a professional-looking resume in various formats.
+This responsive web application is a great way to create and download resumes in different formats. It provides a user-friendly interface that makes it easy to input details, work experience, education, projects, and more and generate a professional-looking resume in various formats.
 
 
 ## Available Scripts
