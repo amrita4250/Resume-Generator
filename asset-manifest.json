@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/amrita4250/Resume-Generator/static/css/main.904173ed.css",
+    "main.js": "//github.com/amrita4250/Resume-Generator/static/js/main.56c37c1f.js",
+    "static/media/resume.svg": "//github.com/amrita4250/Resume-Generator/static/media/resume.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "//github.com/amrita4250/Resume-Generator/index.html",
+    "main.904173ed.css.map": "//github.com/amrita4250/Resume-Generator/static/css/main.904173ed.css.map",
+    "main.56c37c1f.js.map": "//github.com/amrita4250/Resume-Generator/static/js/main.56c37c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904173ed.css",
+    "static/js/main.56c37c1f.js"
+  ]
+}
