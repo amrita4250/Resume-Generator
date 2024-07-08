@@ -362,6 +362,8 @@ function Editor(props) {
           github: values.github,
           email: values.email,
           phone: values.phone,
+      default:
+          console.log("Unexpected value"),
         };
 
         props.setInformation((prev) => ({
